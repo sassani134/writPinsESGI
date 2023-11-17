@@ -1,0 +1,1 @@
+- Je ne connais pas grand chose sur typescript. Juste qu'il faut Type son JS.
